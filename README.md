@@ -48,15 +48,19 @@ The tests are using https://demoqa.com/
 
 ## Course Content:
 ### Chapter 1: Optimizing authentication
+https://testautomationu.applitools.com/playwright-advanced/chapter1.1.html
+https://testautomationu.applitools.com/playwright-advanced/chapter1.2.html
 - Regular authentication with page objects;
 - Stored authentication with global-setup via UI;
 - Stored authentication for multi users;
 - Advanced - auth via API request;
 ### Chapter 2: Dynamic Page Objects & Fixtures
+https://testautomationu.applitools.com/playwright-advanced/chapter2.html
 - Hooks file for reusable page object creation
 - URL builder for dynamic url creation
 - Fixtures file for reusable flows
 ### Chapter 3: Interacting with APIs
+https://testautomationu.applitools.com/playwright-advanced/chapter3.html
 - The APIRequestContext
 - HTTP methods, request options, request URL
 - How to identify an API call and use the swagger
@@ -64,19 +68,22 @@ The tests are using https://demoqa.com/
 - Error handling
 - Reusability
 ### Chapter 4: Data Management
+https://testautomationu.applitools.com/playwright-advanced/chapter4.html
 - Via .env files
 - Via JSON
 - Via API
 - Via mock data
 - Via CSV - https://playwright.dev/docs/test-parameterize#create-tests-via-a-csv-file
 ### Chapter 5: Visual Regression with Applitools
+https://testautomationu.applitools.com/playwright-advanced/chapter5.html
 - Implementing a visual regression test
 - Using different check settings
 - Interpreting the results
 ### Chapter 6: Continuous Integration & Observability
+https://testautomationu.applitools.com/playwright-advanced/chapter6.html
 - Github Actions
 - The yml file
-- Slack Integration
+- Slack Integration (der er hacket i hooket... cmu)
 - Parallelization strategy & Sharding
 
 ___
